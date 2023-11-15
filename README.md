@@ -8,7 +8,7 @@ totp enables you to add TOTP functionaltiy in your code [the V programming langu
 
 ```
 v up
-v install OdaiGH.totp
+v install OdaiGH.vtotp
 ```
 
 ```v ignore
