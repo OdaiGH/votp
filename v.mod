@@ -1,5 +1,5 @@
 Module {
-        name: 'totp'
+        name: 'vtotp'
         author: 'OdaiGH'
         description: 'TOTP implementation in V'
         version: '0.1'
