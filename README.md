@@ -8,7 +8,7 @@ votp enables you to add TOTP or HOTP functionaltiies in your code [the V program
 
 ```
 v up
-v install OdaiGH.vtotp
+v install OdaiGH.votp
 ```
 
 ## Usage
