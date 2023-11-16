@@ -8,7 +8,11 @@ votp enables you to add TOTP or HOTP functionaltiies in your code [the V program
 
 ```
 v up
+<<<<<<< HEAD
 v install OdaiGH.votp
+=======
+v install OdaiGH.vtotp
+>>>>>>> 5423ec1f07014ac847264f80ce45a5dd8b31c795
 ```
 
 ## Usage
@@ -42,4 +46,8 @@ false
 V otp is licensed under MIT.
 
 ### Contributing
+<<<<<<< HEAD
 Follow the instructions in [CONTRIBUTING.md](https://github.com/OdaiGH/votp/blob/master/CONTRIBUTING.md)
+=======
+Follow the instructions in [CONTRIBUTING.md](https://github.com/OdaiGH/totp/blob/master/CONTRIBUTING.md)
+>>>>>>> 5423ec1f07014ac847264f80ce45a5dd8b31c795
